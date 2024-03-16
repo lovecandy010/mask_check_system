@@ -1,0 +1,8 @@
+오류났을때
+Cannot allocate memory in static TLS block
+: export LD_PRELOAD=/usr/lib/aarch64-linux-gnu/libgomp.so.1
+라고 치기
+
+opencv illegal instructions (core dumped)
+: export OPENBLAS_CORETYPE=ARMV8
+라고 치기(아마 매번쳐야될듯)
