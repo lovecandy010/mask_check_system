@@ -28,7 +28,7 @@
 ## 프로젝트 결과
 ![image](https://github.com/lovecandy010/mask_check_system/assets/95009128/1f14745a-9796-4280-9243-122fe4970f62)
 ![image](https://github.com/lovecandy010/mask_check_system/assets/95009128/9859a277-a462-4531-bfda-dca0be1179dd)
-*개인정보 보호를 위해 얼굴은 가렸습니다*
+###### 개인정보 보호를 위해 얼굴은 가렸습니다
 
 
 프로그램을 실행 시 기본적으로 Mask, No Mask 두가지 상태로 나뉩니다.
